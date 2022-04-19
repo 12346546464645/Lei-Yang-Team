@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/muen.unity
+- path: Assets/Scenes/victorGame.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
